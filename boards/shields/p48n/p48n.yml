@@ -3,6 +3,7 @@ id: p48n
 name: X.Tips Keyboard
 type: shield
 url: http://www.umux.com
-requires: [nrfmicro_13_52840]
+requires: [nice_nano_v2]
 features:
   - keys
+
