@@ -19,5 +19,5 @@
 #
 ---
   include:
-    - board: nrfmicro_13_52840
+    - board: nice_nano_v2
       shield: p48n
